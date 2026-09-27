@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<remote name="fork" fetch="https://github.com/Sony-SDM845-5-4/" />
+<remote name="fork" fetch="https://github.com/Tama-5-4-lineage/" />
 
 <project path="packages/modules/Connectivity" name="platform_packages_modules_Connectivity" groups="pdk-cw-fs,pdk-fs" remote="fork" revision="android-16.0.0_r4" />
 

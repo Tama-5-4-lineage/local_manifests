@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<remote name="cubbins" fetch="https://github.com/bartcubbins/" />
-<remote name="fork" fetch="https://github.com/Sony-SDM845-5-4/" />
+<remote name="cubbins" fetch="https://github.com/Tama-5-4-lineage/" />
+<remote name="fork" fetch="https://github.com/Tama-5-4-lineage/" />
 
 <project path="kernel/sony/msm-5.4/common-headers" name="kernel-sony-msm-5.4-headers" groups="device" remote="fork" revision="aosp/LA.UM.9.16.r1" />
 <project path="kernel/sony/msm-5.4/common-kernel" name="kernel-sony-msm-5.4-common" groups="device" remote="fork" revision="aosp/LA.UM.9.16.r1" clone-depth="1" />

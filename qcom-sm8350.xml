@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <remote name="sony" fetch="https://github.com/sonyxperiadev/" />
-<remote name="fork" fetch="https://github.com/Sony-SDM845-5-4/" />
+<remote name="fork" fetch="https://github.com/Tama-5-4-lineage/" />
 
 <project path="vendor/qcom/opensource/display/sm8350" name="vendor-qcom-opensource-display" groups="device" remote="fork" revision="LA.UM.9.16.r1-18100-MANNAR.QSSI15.0" />
 <project path="vendor/qcom/opensource/display-commonsys-intf/sm8350" name="vendor-qcom-opensource-commonsys-intf-display" groups="device" remote="fork" revision="LA.QSSI.11.0.r1-25600-qssi.0" />

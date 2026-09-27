@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <remote name="sony" fetch="https://github.com/sonyxperiadev/" />
-<remote name="fork" fetch="https://github.com/Sony-SDM845-5-4/" />
+<remote name="fork" fetch="https://github.com/Tama-5-4-lineage/" />
 
 <project path="vendor/qcom/opensource/data-ipacfg-mgr-legacy" name="vendor-qcom-opensource-data-ipa-cfg-mgr" groups="device" remote="sony" revision="aosp/LA.UM.9.16.r1" />
 
